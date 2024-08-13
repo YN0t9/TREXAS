@@ -14,12 +14,10 @@ then:
 
 1. Download the ddos.py and info.py File from the Repository
 
-2. Open the Path of The downloaded scripts, for example 'cd C:\Users\YOUR_USER\Downloads\Trexas'
+2. Open the Path of The downloaded scripts, for example 'cd C:\Users\YOUR_USER\Downloads\Trexas' (Create an "Trexas" folder in the path otherwise it won't find the script.)
 
 3. type "python info.py", and enter the Targets IP / domain.
 
 4. Use the given IP, and type "python ddos.py", then type "python3 stresser.py <IP> <PORT> <SOCKETS> <THREADS>", and hit enter.
    Adjust the <SOCKETS> <THREADS> line, if you want to make storonger tests. You should use 10:1 or 5:1 ratio, for example 500 25
    or 100 10.
-
-5. Read #LICENSE in the Repositor
